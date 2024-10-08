@@ -1,3 +1,2 @@
-Hola este es el merge.
-
-# Modificado aaaa
+Modifico todo, quiero conflicto
+asdadas
